@@ -1,0 +1,19 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 250px;
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    transition: transform .3s ease;
+    border: .5px solid #E74C3C;
+    &:hover {
+        transform: scale(1.05);
+        color: #E74C3C;
+    }
+    &:hover > h1 {
+        transform: translateY(-20%);
+    }
+}

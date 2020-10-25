@@ -1,7 +1,7 @@
 .nav {
+  z-index: 100;
   width: 100%;
   height: 80px;
-  background-color: #1C2833;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -9,16 +9,14 @@
       -ms-flex-align: center;
           align-items: center;
   position: relative;
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
 }
 
 .nav-logo {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-}
-
-.nav-logo-text {
-  color: #fff;
 }
 
 .nav-logo-icon {
@@ -29,19 +27,33 @@
   color: #E74C3C;
 }
 
-.nav-menu-icon {
-  color: #E74C3C;
-  width: 30px;
-  height: 30px;
-  display: inline-block;
-  cursor: pointer;
+.menu-icon-theme-wrapper {
   margin-left: auto;
   margin-right: 10px;
+  height: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: reverse;
+      -ms-flex-direction: column-reverse;
+          flex-direction: column-reverse;
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.nav-menu-icon {
+  color: #E74C3C;
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  cursor: pointer;
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
 }
 
 .menu {
+  z-index: 9999;
   position: absolute;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -59,9 +71,8 @@
   left: -100%;
   height: calc(100vh - 80px);
   width: 100%;
-  background-color: #1C2833;
-  -webkit-transition: all .5s ease;
-  transition: all .5s ease;
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
 }
 
 .menu.open {
@@ -69,15 +80,31 @@
 }
 
 .menu-link {
+  position: relative;
   text-decoration: none;
-  color: #fff;
-  font-size: 2rem;
+  font-size: 1.5rem;
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
 }
 
+.menu-link::before {
+  position: absolute;
+  content: '';
+  left: 0;
+  bottom: 0;
+  height: 3px;
+  width: 0;
+  background-color: #E74C3C;
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
+}
+
+.menu-link:hover::before {
+  width: 100%;
+}
+
 .menu-link:hover {
-  color: #E74C3C;
+  color: #E74C3C !important;
 }
 
 .menu-link-wrapper {
