@@ -28,19 +28,11 @@ img {
     bottom: -10%;
 }
 
-.comment {
-    position: absolute;
-    top: 80px;
-    left: 0;
-    height: fit-content;
+.content {
+    overflow: hidden;
+    transition: max-height .3s ease;
+    width: 250px;
+    text-align: center;
 }
 
-.icon-btn {
-    height: 30px;
-    width: 30px;
-    transition: all .3s ease;
-}
 
-.open {
-    transform: rotate(180deg);
-}

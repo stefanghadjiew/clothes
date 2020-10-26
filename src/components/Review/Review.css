@@ -36,24 +36,11 @@ img {
   bottom: -10%;
 }
 
-.comment {
-  position: absolute;
-  top: 80px;
-  left: 0;
-  height: -webkit-fit-content;
-  height: -moz-fit-content;
-  height: fit-content;
-}
-
-.icon-btn {
-  height: 30px;
-  width: 30px;
-  -webkit-transition: all .3s ease;
-  transition: all .3s ease;
-}
-
-.open {
-  -webkit-transform: rotate(180deg);
-          transform: rotate(180deg);
+.content {
+  overflow: hidden;
+  -webkit-transition: max-height .3s ease;
+  transition: max-height .3s ease;
+  width: 250px;
+  text-align: center;
 }
 /*# sourceMappingURL=Review.css.map */

@@ -2,6 +2,7 @@ import React from 'react';
 import {useTheme} from '../../ThemeContext';
 import './Payment.scss';
 import Button from '../Button/Button';
+import Title from '../Title/Title';
 const Payment = () => {
     const darkTheme = useTheme();
     const themeStyle = {
@@ -12,7 +13,7 @@ const Payment = () => {
     return (
         <div style={themeStyle} className="payment-wrapper">
             <div className="title">
-                <h1>Secure Payments Guaranteed!</h1>
+                <Title text="Secure Payments Guaranteed!"/>
             </div>
             <div className="image-wrapper"></div>
             <div className="payment-description">
