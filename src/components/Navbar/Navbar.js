@@ -10,11 +10,17 @@ import { ImWoman } from 'react-icons/im';
 import { FaChild } from 'react-icons/fa';
 import { CgDarkMode } from 'react-icons/cg';
 import {Link} from 'react-router-dom';
-import { useThemeUpdate } from '../../ThemeContext';
+import { useThemeUpdate,useTheme } from '../../ThemeContext';
 import Title from '../Title/Title';
 
 const Navbar = () => {
     const toggleTheme = useThemeUpdate()
+    const darkTheme = useTheme();
+    const themeStyle = {
+      backgroundColor : darkTheme ? "#1C2833" : "#fff",
+      color : darkTheme ? "#fff" : "#1C2833",
+      transition:'all .3s ease'
+  }
     const [menu,setMenu] = useState(false)
     const openMenu = () => {
         setMenu(true)
@@ -40,7 +46,7 @@ const Navbar = () => {
                 }
                 </div>
             </div>
-            <div className={ menu ? "menu open" : "menu" }>
+            <div className={ menu ? "menu open" : "menu" } style={themeStyle}>
                 {[
                     {icon: <AiFillHome className="nav-menu-icon"/>,link:"/clothes",text:"Home"},
                     {icon: <FaUser className="nav-menu-icon"/>,link:"/clothes/login",text:"Log In"},
@@ -50,7 +56,7 @@ const Navbar = () => {
                 ].map((item,index) =>(
                     <div key={index} className="menu-link-wrapper">
                         {item.icon}
-                        <Link onClick={closeMenu} className="menu-link" to={item.link}>{item.text}</Link>
+                        <Link style={themeStyle} onClick={closeMenu} className="menu-link" to={item.link}>{item.text}</Link>
                     </div>
                 ))}
             </div>

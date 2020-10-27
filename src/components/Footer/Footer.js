@@ -15,7 +15,9 @@ const Footer = () =>{
     }
     return(
     <div className="footer">
-        <Title text="Clothes"/>
+        <div className="title-container">
+            <Title text="Clothes"/>
+        </div>
         <div className="social-icons">
             <Link to="#" className="link">
                 <FaTwitter className="footer-icon twitter" style={themeStyle}/>

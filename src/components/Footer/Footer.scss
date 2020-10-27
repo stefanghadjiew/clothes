@@ -1,13 +1,16 @@
 .footer {
     display: flex;
     flex-direction: column;
+    justify-content: flex-start;
+    margin-left: 20px;
+}
+
+.title-container {
+    text-align: center;
 }
 
 .social-icons {
-    margin: 10px 10px 20px;
-    display: flex;
-    justify-content:center;
-    width: fit-content;
+  text-align: center;
 }
 
 .link {
@@ -37,7 +40,6 @@
 
 .support-wrapper {
     display: flex;
-    justify-content: space-evenly;
     width: 100%;
 }
 
@@ -60,3 +62,4 @@ input {
     padding-bottom: 5px;
     width: 200px;
 }
+
