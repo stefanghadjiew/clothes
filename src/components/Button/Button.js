@@ -6,7 +6,8 @@ const Button = ({text,path,width}) => {
     const darkTheme = useTheme()
     const btnStyle = {
         backgroundColor : darkTheme ? "#1C2833" : "#fff",
-        color : darkTheme ? "#fff" : "#1C2833"
+        color : darkTheme ? "#fff" : "#1C2833",
+        width:width,
     }
     return(
     <Link style={{textDecoration:'none'}} to={`${path}`}>

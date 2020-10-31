@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,yBAAyB,CAAC;EACtB,UAAU,EAAE,MAAM;EAClB,KAAK,EAAE,KAAK;EACZ,UAAU,EAAE,KAAK;EACjB,OAAO,EAAE,IAAI;EACb,aAAa,EAAE,MAAM;EACrB,QAAQ,EAAE,IAAI;EACd,qBAAqB,EAAE,cAAa;CACvC",
+    "sources": [
+        "PopularProducts.scss"
+    ],
+    "names": [],
+    "file": "PopularProducts.css"
+}

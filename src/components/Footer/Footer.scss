@@ -2,7 +2,6 @@
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    margin-left: 20px;
 }
 
 .title-container {
@@ -18,6 +17,7 @@
 }
 
 .footer-icon {
+    margin: 10px;
     width: 25px;
     height: 25px;
 }
@@ -41,25 +41,41 @@
 .support-wrapper {
     display: flex;
     width: 100%;
+   
+    margin-left: 20px;
+    
 }
 
 .support {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
+    &:nth-child(2n) {
+        margin-left: 15px;
+    }
 }
 
-h6:first-child {
-    margin-bottom: 10px;
-    opacity: 0.5;
+.contact {
+    display: flex;
+    flex-direction: column;
+    margin: 40px 0 20px 20px;
 }
 
 input {
+    font: inherit;
     border: none;
     outline: none;
     background-color: transparent;
     border-bottom: .5px solid #E74C3C;
-    padding-bottom: 5px;
     width: 200px;
+    height: 50px;
+    margin-bottom: 10px;
+    &:focus::placeholder {
+        transform: translateY(-15px);
+        font-size: small;
+        transition: all .3s ease;
+    }
 }
+
+
 

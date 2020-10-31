@@ -47,7 +47,7 @@ export default {
                 hats : [
                     {
                         id : 1,
-                        img:'https://ibb.co/yPkT694',
+                        img:'https://i.ibb.co/wsGw6rZ/menHats7.jpg',
                         price:'$ 25',
                         name:'Men Hat 1',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi.',
@@ -55,7 +55,7 @@ export default {
                     },
                     {
                         id : 2,
-                        img:'https://ibb.co/G7BzSzL',
+                        img:'https://i.ibb.co/bJBGYXS/menHats6.webp',
                         price:'$ 18',
                         name:'Men Hat 2',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi.',
@@ -63,7 +63,7 @@ export default {
                     },
                     {
                         id : 3,
-                        img:'https://ibb.co/k9RqxT3',
+                        img:'https://i.ibb.co/L8cBth6/menHats5.jpg',
                         price:'$ 20',
                         name:'Men Hat 3',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi.',
@@ -71,7 +71,7 @@ export default {
                     },
                     {
                         id : 4,
-                        img:'https://ibb.co/q1ZQjhz',
+                        img:'https://i.ibb.co/myrKx5V/menHats4.webp',
                         price:'$ 22.50',
                         name:'Men Hat 1',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi.',
@@ -79,7 +79,7 @@ export default {
                     },
                     {
                         id : 5,
-                        img:'https://ibb.co/J26Bj1V',
+                        img:'https://i.ibb.co/pPg2ZT4/menHats2.jpg',
                         price:'$ 15.75',
                         name:'Men Hat 5',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi.',
@@ -92,7 +92,7 @@ export default {
                 shoes : [
                     {
                         id:1,
-                        img:'https://ibb.co/Mp9tfPb',
+                        img:'https://i.ibb.co/F3nyd1y/shoe9.jpg',
                         price:'$ 220',
                         name: 'Men Shoes 1',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -100,7 +100,7 @@ export default {
                     },
                     {
                         id:2,
-                        img:'https://ibb.co/zxNBtgB',
+                        img:'https://i.ibb.co/DkLvYwN/shoe8.jpg',
                         price:'$ 320',
                         name: 'Men Shoes 2',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -108,7 +108,7 @@ export default {
                     },
                     {
                         id:3,
-                        img:'https://ibb.co/B4pzS0N',
+                        img:'https://i.ibb.co/qmtVtZf/shoe15.jpg',
                         price:'$ 199',
                         name: 'Men Shoes 3',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -116,7 +116,7 @@ export default {
                     },
                     {
                         id:4,
-                        img:'https://ibb.co/T1qzDM3',
+                        img:'https://i.ibb.co/3T75V0v/shoe17.jpg',
                         price:'$ 280',
                         name: 'Men Shoes 4',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -124,7 +124,7 @@ export default {
                     },
                     {
                         id:5,
-                        img:'https://ibb.co/4grcky4',
+                        img:'https://i.ibb.co/TRh4Y1T/shoe19.jpg',
                         price:'$ 260',
                         name: 'Men Shoes 5',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -136,7 +136,7 @@ export default {
                 jackets : [
                     {
                         id:1,
-                        img:'https://ibb.co/4Rk56Qn',
+                        img:'https://i.ibb.co/D5RRXwd/men-Jacket6.jpg',
                         price:'$ 490',
                         name:'Men Jacket 1',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -144,7 +144,7 @@ export default {
                     },
                     {
                         id:2,
-                        img:'https://ibb.co/WzdTtLV',
+                        img:'https://i.ibb.co/YdKrZx0/men-Jacket5.png',
                         price:'$ 390',
                         name:'Men Jacket 2',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -152,7 +152,7 @@ export default {
                     },
                     {
                         id:3,
-                        img:'https://ibb.co/V2qqyM6',
+                        img:'https://i.ibb.co/RYgP8hF/men-Jacket10.jpg',
                         price:'$ 290',
                         name:'Men Jacket 3',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -160,7 +160,7 @@ export default {
                     },
                     {
                         id:4,
-                        img:'https://ibb.co/KwBH953',
+                        img:'https://i.ibb.co/B2kSX15/men-Jacket4.jpg',
                         price:'$ 490',
                         name:'Men Jacket 4',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -168,7 +168,7 @@ export default {
                     },
                     {
                         id:5,
-                        img:'https://ibb.co/nr34XRz',
+                        img:'https://i.ibb.co/71NkmxB/men-Jacket15.jpg',
                         price:'$ 260',
                         name:'Men Jacket 5',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -187,7 +187,7 @@ export default {
                 hats : [
                     {
                         id : 1,
-                        img:'https://ibb.co/FK32Zm3',
+                        img:'https://i.ibb.co/TmjpLM4/women-Hats6.jpg',
                         price:'$ 25',
                         name:'Women Hat 1',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi.',
@@ -195,7 +195,7 @@ export default {
                     },
                     {
                         id : 2,
-                        img:'https://ibb.co/XtXfwb3',
+                        img:'https://i.ibb.co/nQFTqcH/women-Hats5.jpg',
                         price:'$ 18',
                         name:'Women Hat 2',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi.',
@@ -203,7 +203,7 @@ export default {
                     },
                     {
                         id : 3,
-                        img:'https://ibb.co/VVQhvNj',
+                        img:'https://i.ibb.co/D1qK74v/women-Hats4.jpg',
                         price:'$ 20',
                         name:'Women Hat 3',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi.',
@@ -211,7 +211,7 @@ export default {
                     },
                     {
                         id : 4,
-                        img:'https://ibb.co/gtTMc0q',
+                        img:'https://i.ibb.co/Cn3T8bM/women-Hats3.jpg',
                         price:'$ 22.50',
                         name:'Women Hat 1',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi.',
@@ -219,7 +219,7 @@ export default {
                     },
                     {
                         id : 5,
-                        img:'https://ibb.co/P4tcdKR',
+                        img:'https://i.ibb.co/nCrTfwq/women-Hats22.jpg',
                         price:'$ 15.75',
                         name:'Women Hat 5',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi.',
@@ -232,7 +232,7 @@ export default {
                 shoes : [
                     {
                         id:1,
-                        img:'https://ibb.co/B45M2Sg',
+                        img:'https://i.ibb.co/S0FKGbw/women-Shoes5.jpg',
                         price:'$ 220',
                         name: 'Women Shoes 1',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -240,7 +240,7 @@ export default {
                     },
                     {
                         id:2,
-                        img:'https://ibb.co/CMPgBhS',
+                        img:'https://i.ibb.co/nCDB933/women-Shoes4.jpg',
                         price:'$ 320',
                         name: 'Women Shoes 2',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -248,7 +248,7 @@ export default {
                     },
                     {
                         id:3,
-                        img:'https://ibb.co/cv2Zqsd',
+                        img:'https://i.ibb.co/ScVD7CK/women-Shoes3.jpg',
                         price:'$ 199',
                         name: 'Women Shoes 3',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -256,7 +256,7 @@ export default {
                     },
                     {
                         id:4,
-                        img:'https://ibb.co/BKGbp0P',
+                        img:'https://i.ibb.co/DMcgk8g/Mandatory-Credit-Photo-by-Rodin-Banica-WWD-Shutterstock-10096457cr-Model-on-the-catwalk-shoe-detail.jpg',
                         price:'$ 280',
                         name: 'Women Shoes 4',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -264,7 +264,7 @@ export default {
                     },
                     {
                         id:5,
-                        img:'https://ibb.co/DpBCYsW',
+                        img:'https://i.ibb.co/98p0B5Z/women-Shoes25.jpg',
                         price:'$ 260',
                         name: 'Women Shoes 5',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -276,7 +276,7 @@ export default {
                 jackets : [
                     {
                         id:1,
-                        img:'https://ibb.co/2sTZgSs',
+                        img:'https://i.ibb.co/2qKVvgh/women-Jackets2.jpg',
                         price:'$ 490',
                         name:'Women Jacket 1',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -284,7 +284,7 @@ export default {
                     },
                     {
                         id:2,
-                        img:'https://ibb.co/MN4j9yt',
+                        img:'https://i.ibb.co/xFTfqf1/women-Jackets5.jpg',
                         price:'$ 390',
                         name:'Women Jacket 2',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -292,7 +292,7 @@ export default {
                     },
                     {
                         id:3,
-                        img:'https://ibb.co/3YvGrzh',
+                        img:'https://i.ibb.co/r49kkxT/women-Jackets25.jpg',
                         price:'$ 290',
                         name:'Women Jacket 3',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -300,7 +300,7 @@ export default {
                     },
                     {
                         id:4,
-                        img:'https://ibb.co/YZ5LwXJ',
+                        img:'https://i.ibb.co/WnkPCZQ/women-Jackets21.jpg',
                         price:'$ 490',
                         name:'Women Jacket 4',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -308,7 +308,7 @@ export default {
                     },
                     {
                         id:5,
-                        img:'https://ibb.co/Px5MZxc',
+                        img:'https://i.ibb.co/gVPNcF8/women-Jackets18.webp',
                         price:'$ 260',
                         name:'Women Jacket 5',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -327,7 +327,7 @@ export default {
             hats : [
                     {
                         id : 1,
-                        img:'https://ibb.co/xStGX4D',
+                        img:'https://i.ibb.co/FJpKCkC/children-Hats7.jpg',
                         price:'$ 25',
                         name:'Children Hat 1',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi.',
@@ -335,7 +335,7 @@ export default {
                     },
                     {
                         id : 2,
-                        img:'https://ibb.co/6nfFff6',
+                        img:'https://i.ibb.co/5FSNDgX/children-Hats6.jpg',
                         price:'$ 18',
                         name:'Children Hat 2',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi.',
@@ -343,7 +343,7 @@ export default {
                     },
                     {
                         id : 3,
-                        img:'https://ibb.co/444fcTz',
+                        img:'https://i.ibb.co/qjH39vn/children-Hats5.webp',
                         price:'$ 20',
                         name:'Children Hat 3',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi.',
@@ -351,7 +351,7 @@ export default {
                     },
                     {
                         id : 4,
-                        img:'https://ibb.co/z7Y2Wtv',
+                        img:'https://i.ibb.co/X8mdVvp/children-Hats4.webp',
                         price:'$ 22.50',
                         name:'Children Hat 1',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi.',
@@ -359,7 +359,7 @@ export default {
                     },
                     {
                         id : 5,
-                        img:'https://ibb.co/tzbj3y9',
+                        img:'https://i.ibb.co/3BwKWhr/children-Hats1.jpg',
                         price:'$ 15.75',
                         name:'Children Hat 5',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi.',
@@ -372,7 +372,7 @@ export default {
                 shoes : [
                     {
                         id:1,
-                        img:'https://ibb.co/z5pLZsh',
+                        img:'https://i.ibb.co/qF2NbcW/children-Shoes5.webp',
                         price:'$ 220',
                         name: 'Children Shoes 1',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -380,7 +380,7 @@ export default {
                     },
                     {
                         id:2,
-                        img:'https://ibb.co/C8BmTH7',
+                        img:'https://i.ibb.co/drDcb4y/children-Shoes4.jpg',
                         price:'$ 320',
                         name: 'Children Shoes 2',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -388,7 +388,7 @@ export default {
                     },
                     {
                         id:3,
-                        img:'https://ibb.co/mNvRX26',
+                        img:'https://i.ibb.co/pKqW1ZC/children-Shoes2.jpg',
                         price:'$ 199',
                         name: 'Children Shoes 3',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -396,7 +396,7 @@ export default {
                     },
                     {
                         id:4,
-                        img:'https://ibb.co/x85Nwvh',
+                        img:'https://i.ibb.co/mCM7f79/children-Shoes23.jpg',
                         price:'$ 280',
                         name: 'Children Shoes 4',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -404,7 +404,7 @@ export default {
                     },
                     {
                         id:5,
-                        img:'https://ibb.co/D7KxYVv',
+                        img:'https://i.ibb.co/mGVFjd2/children-Shoes21.jpg',
                         price:'$ 260',
                         name: 'Children Shoes 5',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -416,7 +416,7 @@ export default {
                 jackets : [
                     {
                         id:1,
-                        img:'https://ibb.co/P42vBkB',
+                        img:'https://i.ibb.co/9gq9bvC/kids-Jackets6.jpg',
                         price:'$ 490',
                         name:'Children Jacket 1',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -424,7 +424,7 @@ export default {
                     },
                     {
                         id:2,
-                        img:'https://ibb.co/9wh402x',
+                        img:'https://i.ibb.co/GdwTZBL/kids-Jackets1.jpg',
                         price:'$ 390',
                         name:'Children Jacket 2',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -432,7 +432,7 @@ export default {
                     },
                     {
                         id:3,
-                        img:'https://ibb.co/X2hTYM1',
+                        img:'https://i.ibb.co/Z8rnTm2/kids-Jackets24.jpg',
                         price:'$ 290',
                         name:'Children Jacket 3',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -440,7 +440,7 @@ export default {
                     },
                     {
                         id:4,
-                        img:'https://ibb.co/j3xS55s',
+                        img:'https://i.ibb.co/8bD63Pm/kids-Jackets19.jpg',
                         price:'$ 490',
                         name:'Children Jacket 4',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',
@@ -448,7 +448,7 @@ export default {
                     },
                     {
                         id:5,
-                        img:'https://ibb.co/1r7FNF8',
+                        img:'https://i.ibb.co/7SBgPYv/kids-Jackets17.webp',
                         price:'$ 260',
                         name:'Children Jacket 5',
                         description:'Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ligula arcu, posuere in gravida ac, finibus sed ipsum. Vivamus nisi',

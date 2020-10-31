@@ -1,0 +1,9 @@
+.popular-products-wrapper {
+    text-align: center;
+    width: 100vw;
+    min-height: 100vh;
+    display: grid;
+    justify-items: center;
+    grid-gap: 25px;
+    grid-template-columns: repeat(1,1fr)
+}

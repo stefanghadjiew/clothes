@@ -1,0 +1,19 @@
+.card {
+    position: relative;
+    overflow: hidden;
+}
+
+.banner {
+    width: 100%;
+    border-top: 5px solid #E74C3C;
+    border-bottom: 5px solid #E74C3C;
+    position: absolute;
+    top: 15px;
+    left: -90px;
+    background-color: aqua;
+    transform: rotate(-45deg);
+}
+
+.btn-wrapper {
+    margin-top:160px;
+} 
